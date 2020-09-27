@@ -1,0 +1,14 @@
+p:first-child a {
+    border: 3px solid green;
+    border-radius: 3px;
+    color: white;
+    background-color: green;
+}
+
+p:last-child a {
+    border: 3px solid orange;
+    border-radius: 3px;
+    color: white;
+    background-color: orange;
+}
+
