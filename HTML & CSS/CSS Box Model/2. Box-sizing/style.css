@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+section {
+    width: 250px;
+    height: 250px;
+    border: 2px aqua dashed;
+    text-align: center;
+
+}
+
+p {
+    border: 2px blue solid;
+    width: 100%;
+    padding: 20px;
+    box-sizing: border-box;
+}

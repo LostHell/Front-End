@@ -1,0 +1,16 @@
+body {
+    margin: 0 2rem;
+}
+
+li {
+    list-style: none;
+    display: inline-block;
+}
+
+img {
+    width: 270px;
+    height: 270px;
+    padding: 2rem;
+    border: black 0.4rem solid;
+    margin: 2rem;
+}

@@ -1,0 +1,42 @@
+body {
+    font-family: Helvetica, sans-serif;
+    background-color: #EEEEEE;
+    max-width: 1290px;
+    margin: 0 auto;
+}
+
+header {
+    margin-top: 2rem;
+    border-bottom: 2px solid;
+}
+
+#f-image, #s-image {
+    width: 200px;
+    height: 200px;
+}
+
+#f-image {
+    float: right;
+}
+
+.s-section {
+    clear: both;
+}
+
+.s-section em {
+    float: right;
+    width: 550px;
+    border-left: 3px solid;
+}
+
+.t-section {
+    clear: both;
+}
+
+#s-image {
+    float: left;
+}
+
+
+
+
